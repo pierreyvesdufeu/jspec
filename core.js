@@ -1,5 +1,6 @@
 // specs for jquery core
 module("core");
+test
 
 test("Basic requirements", function() {
 	expect(7);
